@@ -1,0 +1,17 @@
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductService.deps.json
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductService.dll
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductService.pdb
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.AssemblyInfoInputs.cache
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.AssemblyInfo.cs
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.csproj.CoreCompileInputs.cache
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.dll
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\refint\ProductService.dll
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.pdb
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ref\ProductService.dll
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductData.dll
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductRepository.dll
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductData.pdb
+F:\.net\session 36 API\All\ProductService\bin\Debug\net6.0\ProductRepository.pdb
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.csproj.AssemblyReference.cache
+F:\.net\session 36 API\All\ProductService\obj\Debug\net6.0\ProductService.csproj.CopyComplete

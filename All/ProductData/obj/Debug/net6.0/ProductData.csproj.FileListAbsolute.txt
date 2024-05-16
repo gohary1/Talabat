@@ -1,0 +1,12 @@
+F:\.net\session 36 API\All\ProductData\bin\Debug\net6.0\ProductData.deps.json
+F:\.net\session 36 API\All\ProductData\bin\Debug\net6.0\ProductData.dll
+F:\.net\session 36 API\All\ProductData\bin\Debug\net6.0\ProductData.pdb
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.csproj.AssemblyReference.cache
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.AssemblyInfoInputs.cache
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.AssemblyInfo.cs
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.csproj.CoreCompileInputs.cache
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.dll
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\refint\ProductData.dll
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ProductData.pdb
+F:\.net\session 36 API\All\ProductData\obj\Debug\net6.0\ref\ProductData.dll
